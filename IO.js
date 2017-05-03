@@ -25,3 +25,5 @@ class IO {
 // var writeTitle = write('#title');
 //
 // IO.from(readTitle).map(_.startCase).map(writeTitle).run();
+
+module.exports = IO;
